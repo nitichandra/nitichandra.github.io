@@ -3,6 +3,7 @@ html {
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
+
 body {
   margin: 0;
 }
@@ -102,6 +103,7 @@ samp {
   font-family: monospace, monospace;
   font-size: 1em;
 }
+
 button,
 input,
 optgroup,
